@@ -26,4 +26,4 @@ It's aimed at everyday users as much as power users.
 3. Start the application and configure your initial preferences.
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.                   
+> This project is shared as-is. All product names and logos belong to their respective owners.                    
